@@ -12,11 +12,15 @@ The two version will eventually converge.
 You can find the repositories for the standalone version of Stack4Things here:
 
 [s4t-iotronic-standalone](https://github.com/MDSLab/s4t-iotronic-standalone)
+
 [s4t-lightning-rod](https://github.com/MDSLab/s4t-lightning-rod)
+
 [s4t-iotronic-webinterface] (https://github.com/MDSLab/s4t-iotronic-webinterface)
 
 while the repositories for the OpenStack-based version of Stack4Things can be found here:
 
 [iotronic](https://github.com/MDSLab/iotronic)
+
 [iotronic-lightning-rod](https://github.com/MDSLab/iotronic-lightning-rod)
+
 [python-iotronicclient](https://github.com/MDSLab/python-iotronicclient)
