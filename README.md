@@ -1,4 +1,7 @@
 # Stack4things
+
+##Overview
+
 Stack4Things is a framework for Cloud-based management of IoT resources integrated with OpenStack. Stack4Things involves two main components: the IoTronic service and the Lightning-rod probe. IoTronic is the Cloud-side service that allows users to manage IoT resources. Lightning-rod is the IoT device-side probe that acts as the IoTronic counterpart connecting the device to the Cloud. 
 
 We currently have two versions of Stack4Things. 
@@ -24,3 +27,25 @@ while the repositories for the OpenStack-based version of Stack4Things can be fo
 [iotronic-lightning-rod](https://github.com/MDSLab/iotronic-lightning-rod)
 
 [python-iotronicclient](https://github.com/MDSLab/python-iotronicclient)
+
+##Get started with Stack4Things
+
+Coming soon!
+
+##Scientific References
+
+Scientific papers describing the work on Stack4Things by the University of Messina can be found [here](http://mdslab.unime.it/biblio).
+
+In particular, you can find details about Stack4Things in the following papers:
+
+G. Merlino, D. Bruneo, S. Distefano, F. Longo, A. Puliafito - Stack4Things: integrating IoT with OpenStack in a Smart City context. Sensors and Smart Cities, Smart Computing Workshops (SMARTCOMP Workshops), 2014 International Conference on, pp. 21,28, 5-5 Nov. 2014.
+
+G. Merlino,  D. Bruneo,  S. Distefano,  F. Longo,  A. Puliafito, and A. Al-Anbuky - A Smart City Lighting Case Study on an OpenStack-Powered Infrastructure, Sensors 2015, 15(7), pp. 16314-16335.
+
+G. Merlino, D. Bruneo, F. Longo, S. Distefano, A. Puliafito - Cloud-based network virtualization: An IoT use case (2015) Lecture Notes of the Institute for Computer Sciences, Social-Informatics and Telecommunications Engineering, LNICST, 155, pp. 199-210. 
+
+F. Longo, D. Bruneo, S. Distefano, G. Merlino, A. Puliafito - Stack4Things: An OpenStack-Based Framework for IoT (2015) Proceedings - 2015 International Conference on Future Internet of Things and Cloud, FiCloud 2015 and 2015 International Conference on Open and Big Data, OBD 2015, art. no. 7300819, pp. 204-211.
+
+G. Merlino, D. Bruneo, S. Distefano, F. Longo, A. Puliafito - Enabling mechanisms for Cloud-based network virtualization in IoT (2015) IEEE World Forum on Internet of Things, WF-IoT 2015 - Proceedings, art. no. 7389064, pp. 268-273.
+
+F. Longo, D. Bruneo, S. Distefano, G. Merlino, A. Puliafito - Stack4Things: a sensing-and-actuation-as-a-service framework for IoT and cloud integration (2016) Annales des Telecommunications/Annals of Telecommunications, pp. 1-18.
