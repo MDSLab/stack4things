@@ -4,7 +4,7 @@
 
 Stack4Things is an Internet of Things framework developed by the Mobile and Distributed Systems Lab (MDSLab) at the University of Messina, Italy. Stack4Things is an open source project that helps you in managing IoT device fleets without caring about their physical location, their network configuration, their underlying technology. It is a Cloud-oriented horizontal solution (integrated with OpenStack) providing IoT object virtualization, customization, and orchestration. Stack4Things provides you with an out-of-the-box experience on several of the most popular embedded and mobile systems.
 
-You can find more information on the official Web site: [https://stack4things.unime.it](https://stack4things.unime.it). 
+You can find more information on the official Web site: [http://stack4things.unime.it](http://stack4things.unime.it). 
 
 Stack4Things involves two main components: the IoTronic service and the Lightning-rod probe. IoTronic is the Cloud-side service that allows users to manage IoT resources. Lightning-rod is the IoT device-side probe that acts as the IoTronic counterpart connecting the device to the Cloud. 
 
