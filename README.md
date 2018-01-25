@@ -1,6 +1,6 @@
 # Stack4things
 
-##Overview
+## Overview
 
 Stack4Things is an Internet of Things framework developed by the Mobile and Distributed Systems Lab (MDSLab) at the University of Messina, Italy. Stack4Things is an open source project that helps you in managing IoT device fleets without caring about their physical location, their network configuration, their underlying technology. It is a Cloud-oriented horizontal solution (integrated with OpenStack) providing IoT object virtualization, customization, and orchestration. Stack4Things provides you with an out-of-the-box experience on several of the most popular embedded and mobile systems.
 
@@ -22,7 +22,7 @@ You can find the repositories for the standalone version of Stack4Things here:
 
 [s4t-lightning-rod](https://github.com/MDSLab/s4t-lightning-rod)
 
-[s4t-iotronic-webinterface] (https://github.com/MDSLab/s4t-iotronic-webinterface)
+[s4t-iotronic-webinterface](https://github.com/MDSLab/s4t-iotronic-webinterface)
 
 while the repositories for the OpenStack-based version of Stack4Things can be found here:
 
@@ -32,11 +32,11 @@ while the repositories for the OpenStack-based version of Stack4Things can be fo
 
 [python-iotronicclient](https://github.com/MDSLab/python-iotronicclient)
 
-##Get started with Stack4Things
+## Get started with Stack4Things
 
 Coming soon!
 
-##Scientific References
+## Scientific References
 
 Scientific papers describing the work on Stack4Things by the University of Messina can be found [here](http://mdslab.unime.it/biblio).
 
